@@ -197,6 +197,59 @@ for index, city in enumerate(cities, start=1):
 ```
 
 
+### 🔍 What Are Iterables?
+
+An **iterable** is an object that can be iterated over. It includes zero or more elements and has the ability to return its elements one at a time.
+
+You can use a `for` loop to iterate over any iterable.
+
+#### ✅ Examples of Iterables:
+- Lists
+- Tuples
+- Strings
+- Dictionaries
+- `range()` objects
+- Files
+- Generators
+
+#### 🔄 Example:
+```python
+colors = ['red', 'green', 'blue']
+for color in colors:
+    print(color)
+```
+
+### 🔄 What Is an Iterator?
+
+An **iterator** is the object that actually performs the iteration. You get an iterator from an iterable using the built-in `iter()` function.
+
+Once you have an iterator, you can retrieve the next element using the `next()` function.
+
+#### 🔄 Example:
+```python
+colors = ['red', 'green', 'blue']
+colors_iter = iter(colors)
+
+print(next(colors_iter))  # red
+print(next(colors_iter))  # green
+print(next(colors_iter))  # blue
+```
+
+If there are no more items, `next()` raises a `StopIteration` exception.
+
+
+
+### 🧩 Iter Concepts
+
+| Concept | Explanation |
+|--------|-------------|
+| **Iterable** | Any object you can loop over (e.g., list, string, range) |
+| **Iterator** | Object that keeps track of iteration state |
+| `iter()` | Function to get an iterator from an iterable |
+| `next()` | Function to get the next item from an iterator |
+| **Stateful** | Once you consume an element from an iterator, it’s gone |
+| **Iterator is also Iterable** | You can loop over an iterator again, but it will be empty unless reinitialized |
+
 
 ## 🔎 Finding Index of an Element
 
