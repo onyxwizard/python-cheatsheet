@@ -7,7 +7,7 @@ This repository is your **step-by-step roadmap** to mastering Python — from th
 
 ---
 
-## 🧱 Section 1: Fundamentals
+## 🧱 [Section 1: Fundamentals](https://github.com/onyxwizard/python-cheatsheet/tree/main/Section_1_fundamentals)
 
 🔹 **Learn the basic structure and syntax of Python code.**
 
@@ -21,7 +21,7 @@ This repository is your **step-by-step roadmap** to mastering Python — from th
 
 ---
 
-## 🔣 Section 2: Operators
+## 🔣 [Section 2: Operators](https://github.com/onyxwizard/python-cheatsheet/tree/main/Section_2_operators)
 
 🛠️ **Learn to manipulate data using operators.**
 
@@ -32,7 +32,7 @@ This repository is your **step-by-step roadmap** to mastering Python — from th
 
 ---
 
-## 🔄 Section 3: Control Flow
+## 🔄 [Section 3: Control Flow](https://github.com/onyxwizard/python-cheatsheet/tree/main/Section_3_controlflow)
 
 🧠 **Make decisions and control how your code runs.**
 
@@ -46,7 +46,7 @@ This repository is your **step-by-step roadmap** to mastering Python — from th
 
 ---
 
-## 📦 Section 4: Functions
+## 📦 [Section 4: Functions](https://github.com/onyxwizard/python-cheatsheet/tree/main/Section_4_functions)
 
 🧩 **Write reusable blocks of code.**
 
@@ -59,7 +59,7 @@ This repository is your **step-by-step roadmap** to mastering Python — from th
 
 ---
 
-## 📋 Section 5: Lists
+## 📋 [Section 5: Lists](https://github.com/onyxwizard/python-cheatsheet/tree/main/Section_5_List)
 
 📂 **Work with ordered collections of data.**
 
@@ -76,7 +76,7 @@ This repository is your **step-by-step roadmap** to mastering Python — from th
 
 ---
 
-## 🗂️ Section 6: Dictionaries
+## 🗂️ [Section 6: Dictionaries](https://github.com/onyxwizard/python-cheatsheet/tree/main/Section_6_Dictionary)
 
 🗄️ **Use key-value pairs to organize data.**
 
@@ -85,7 +85,7 @@ This repository is your **step-by-step roadmap** to mastering Python — from th
 
 ---
 
-## 🔢 Section 7: Sets
+## 🔢 [Section 7: Sets](https://github.com/onyxwizard/python-cheatsheet/tree/main/Section_7_Sets)
 
 🧮 **Work with unique collections of items.**
 
@@ -96,7 +96,7 @@ This repository is your **step-by-step roadmap** to mastering Python — from th
 
 ---
 
-## ⚠️ Section 8: Exception Handling
+## ⚠️ [Section 8: Exception Handling](https://github.com/onyxwizard/python-cheatsheet/tree/main/Section_8_Exception_Handling)
 
 🛡️ **Handle errors gracefully and keep your programs running.**
 
@@ -106,7 +106,7 @@ This repository is your **step-by-step roadmap** to mastering Python — from th
 
 ---
 
-## 🔁 Section 9: More on Python Loops
+## 🔁 [Section 9: More on Python Loops](https://github.com/onyxwizard/python-cheatsheet/tree/main/Section_9_loops_adv)
 
 🔁 **Advanced looping techniques.**
 
@@ -116,7 +116,7 @@ This repository is your **step-by-step roadmap** to mastering Python — from th
 
 ---
 
-## 🧰 Section 10: More on Python Functions
+## 🧰 [Section 10: More on Python Functions](https://github.com/onyxwizard/python-cheatsheet/tree/main/Section_10_More_on_function)
 
 🔧 **Master advanced function features.**
 
@@ -128,7 +128,7 @@ This repository is your **step-by-step roadmap** to mastering Python — from th
 
 ---
 
-## 📁 Section 11: Modules & Packages
+## 📁 [Section 11: Modules & Packages](https://github.com/onyxwizard/python-cheatsheet/tree/main/Section_11_Modules_packages.py)
 
 🧱 **Organize and reuse your code effectively.**
 
@@ -140,7 +140,7 @@ This repository is your **step-by-step roadmap** to mastering Python — from th
 
 ---
 
-## 📄 Section 12: Working with Files
+## 📄 [Section 12: Working with Files](https://github.com/onyxwizard/python-cheatsheet/tree/main/Section_12_files)
 
 📂 **Read from and write to files.**
 
@@ -153,7 +153,7 @@ This repository is your **step-by-step roadmap** to mastering Python — from th
 
 ---
 
-## 🗃️ Section 13: Working Directories
+## 🗃️ [Section 13: Working Directories](https://github.com/onyxwizard/python-cheatsheet/tree/main/Section_13_Directory)
 
 📁 **Interact with your file system.**
 
@@ -162,7 +162,7 @@ This repository is your **step-by-step roadmap** to mastering Python — from th
 
 ---
 
-## 💬 Section 14: Strings
+## 💬 [Section 14: Strings](https://github.com/onyxwizard/python-cheatsheet/tree/main/Section_14_strings)
 
 🔤 **Advanced string manipulation.**
 
@@ -172,7 +172,7 @@ This repository is your **step-by-step roadmap** to mastering Python — from th
 
 ---
 
-## 🛠️ Section 15: Third-party Packages, PIP, and Virtual Environments
+## 🛠️ [Section 15: Third-party Packages, PIP, and Virtual Environments](https://github.com/onyxwizard/python-cheatsheet/tree/main/Section_15_pip_package)
 
 📦 **Install and manage external libraries.**
 
