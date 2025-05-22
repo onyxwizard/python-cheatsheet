@@ -180,8 +180,148 @@ This repository is your **step-by-step roadmap** to mastering Python — from th
 - 🧺 **Virtual Environments** – Isolate project dependencies.
 - 💻 **Install pipenv on Windows** – Manage virtual environments easily.
 
+
 ---
 
-🎉 **Let’s learn Python together — one step at a time!**  
-✨ Fork this repo, follow along, and start coding today!
+# 🧬 Object-Oriented Programming in Python (OOP)  
 
+
+## 🧠 What You’ll Learn
+
+This README provides a structured and beginner-friendly guide to **Object-Oriented Programming (OOP)** in Python. It's based on your uploaded content and includes:
+- 🔹 Classes & Objects
+- 🔹 Instance vs Class Variables
+- 🔹 `__init__()` method
+- 🔹 Private attributes
+- 🔹 Static methods
+- 🔹 Inheritance
+- 🔹 Special methods (`__str__`, `__repr__`, etc.)
+- 🔹 Property management
+- 🔹 Exceptions in OOP
+
+Each concept is explained with code examples and best practices for writing clean, maintainable object-oriented code.
+
+## 🧬 [Section 16: Classes and Objects](#section-16-classes-and-objects)
+
+🧑‍💻 Build your first class and understand object-oriented programming.
+
+- 🧱 Class definition and instance creation
+- 📦 Instance vs class variables
+- 🔐 Private attributes and name mangling
+- 🛠️ Constructor `__init__()`
+- 🧩 Instance methods and static methods
+- 🧾 Method overloading via default and keyword arguments
+- 💡 Best practices for readable OOP
+
+---
+
+## 🧪 [Section 17: Special Methods (Dunders)](#section-17-special-methods)
+
+🧠 Customize class behavior using special methods.
+
+- 🖨️ `__str__` – user-friendly output
+- 🧾 `__repr__` – unambiguous representation
+- ✅ `__eq__` – define equality logic
+- 🔢 `__hash__` – make objects hashable
+- 🚫 `__bool__` – define truthiness
+- 🗑️ `__del__` – handle object destruction
+
+---
+
+## 🔐 [Section 18: Property](#section-18-property)
+
+🗝️ Control access to internal attributes.
+
+- 🧩 Use `property()` to create properties
+- 🎀 Use `@property` decorator
+- 📥 Getter, setter, and deleter patterns
+- 📝 Read-only properties
+- 🧠 Best practices for encapsulation
+
+---
+
+## 🔄 [Section 19: Inheritance](#section-19-inheritance)
+
+👨‍👦 Learn inheritance and extend functionality.
+
+- 🧬 Single inheritance – `class Child(Parent)`
+- 🔁 Override methods
+- 🚶 Use `super()` to delegate to parent
+- 🧱 Use `__slots__` for memory efficiency
+- 🧻 Abstract base classes with `abc.ABC`
+
+---
+
+## 🔁 [Section 20: Multiple Inheritance](#section-20-multiple-inheritance)
+
+🧬 Understand method resolution order and mixin classes.
+
+- 🧠 Implement multiple inheritance
+- 🧭 MRO – Python’s method lookup strategy
+- 🧩 Mixin classes for cross-cutting concerns
+- 🚫 Avoid diamond problem with proper design
+- 🧲 Combine behaviors without deep hierarchies
+
+---
+
+## 🧩 [Section 21: Enumeration](#section-21-enumeration)
+
+🔢 Represent fixed sets of constants.
+
+- 🧱 Define enums with `enum.Enum`
+- 🧷 Use `@unique` to prevent duplicate values
+- 🧮 Auto-generate values with `auto()`
+- 📦 Extend custom enum classes
+- 🧠 Use enums instead of hardcoded strings
+
+---
+
+## 🧱 [Section 22: SOLID Principles](#section-22-solid-principles)
+
+🛠️ Apply SOLID principles for maintainable designs.
+
+- 📦 Single Responsibility Principle
+- 🧩 Open/Closed Principle
+- 🔄 Liskov Substitution Principle
+- 📁 Interface Segregation Principle
+- 🧠 Dependency Inversion Principle
+
+---
+
+## 🧰 [Section 23: Descriptors](#section-23-descriptors)
+
+🔗 Reuse attribute access logic with descriptors.
+
+- 🧠 Descriptor protocol – `__get__`, `__set__`, `__delete__`
+- 📦 Data vs non-data descriptors
+- 🧩 Reusable validation and computed properties
+- 🧱 Descriptor examples: type checking, lazy loading
+
+---
+
+## 🧪 [Section 24: Metaprogramming](#section-24-metaprogramming)
+
+🔮 Modify or generate code at runtime.
+
+- 🧬 Use `__new__` to control object creation
+- 📦 Dynamically create classes using `type()`
+- 🧩 Define custom metaclasses
+- 🧱 Inject behavior via metaclass
+- 🧠 Use `dataclass` to auto-generate boilerplate
+
+---
+
+## 🧾 [Section 25: Exceptions in OOP](#section-25-exceptions-in-oop)
+
+⚙️ Handle errors within object-oriented contexts.
+
+- 🧠 Raise exceptions in methods
+- 🧩 Create custom exception classes
+- 🛡️ Catch and propagate exceptions
+- 🧹 Graceful error recovery in OOP
+- 📦 Exception best practices in real applications
+
+
+#### 🎉 **Let’s learn Python together — one concept at a time!**  
+
+---
