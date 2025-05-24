@@ -102,6 +102,7 @@ print(Person.count)  # Output: 2
 🔸 All instances access the same `count`. Changes reflect globally.
 
 
+<img width="732" alt="class" src="https://github.com/user-attachments/assets/7dc9a8fd-ab21-4b62-b60c-c53c473b65df" />
 
 ## 🔒 Private Attributes
 
