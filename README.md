@@ -201,7 +201,7 @@ This README provides a structured and beginner-friendly guide to **Object-Orient
 
 Each concept is explained with code examples and best practices for writing clean, maintainable object-oriented code.
 
-## 🧬 [Section 16: Classes and Objects](#section-16-classes-and-objects)
+## 🧬 [Section 16: Classes and Objects](https://github.com/onyxwizard/python-cheatsheet/tree/main/Section_16_Classes_Objects)
 
 🧑‍💻 Build your first class and understand object-oriented programming.
 
@@ -215,7 +215,7 @@ Each concept is explained with code examples and best practices for writing clea
 
 ---
 
-## 🧪 [Section 17: Special Methods (Dunders)](#section-17-special-methods)
+## 🧪 [Section 17: Special Methods (Dunders)](https://github.com/onyxwizard/python-cheatsheet/tree/main/Section_17_Special_methods)
 
 🧠 Customize class behavior using special methods.
 
@@ -228,7 +228,7 @@ Each concept is explained with code examples and best practices for writing clea
 
 ---
 
-## 🔐 [Section 18: Property](#section-18-property)
+## 🔐 [Section 18: Property](https://github.com/onyxwizard/python-cheatsheet/tree/main/Section_18_Property)
 
 🗝️ Control access to internal attributes.
 
@@ -240,7 +240,7 @@ Each concept is explained with code examples and best practices for writing clea
 
 ---
 
-## 🔄 [Section 19: Inheritance](#section-19-inheritance)
+## 🔄 [Section 19: Inheritance](https://github.com/onyxwizard/python-cheatsheet/tree/main/Section_19_Single_inheritance)
 
 👨‍👦 Learn inheritance and extend functionality.
 
@@ -252,7 +252,7 @@ Each concept is explained with code examples and best practices for writing clea
 
 ---
 
-## 🔁 [Section 20: Multiple Inheritance](#section-20-multiple-inheritance)
+## 🔁 [Section 20: Multiple Inheritance](https://github.com/onyxwizard/python-cheatsheet/tree/main/Section_20_Enumeration)
 
 🧬 Understand method resolution order and mixin classes.
 
@@ -264,7 +264,7 @@ Each concept is explained with code examples and best practices for writing clea
 
 ---
 
-## 🧩 [Section 21: Enumeration](#section-21-enumeration)
+## 🧩 [Section 21: Enumeration](https://github.com/onyxwizard/python-cheatsheet/tree/main/Section_21_SOLID_principles)
 
 🔢 Represent fixed sets of constants.
 
@@ -276,7 +276,7 @@ Each concept is explained with code examples and best practices for writing clea
 
 ---
 
-## 🧱 [Section 22: SOLID Principles](#section-22-solid-principles)
+## 🧱 [Section 22: SOLID Principles](https://github.com/onyxwizard/python-cheatsheet/tree/main/Section_22_Multiple_inheritance)
 
 🛠️ Apply SOLID principles for maintainable designs.
 
@@ -288,7 +288,7 @@ Each concept is explained with code examples and best practices for writing clea
 
 ---
 
-## 🧰 [Section 23: Descriptors](#section-23-descriptors)
+## 🧰 [Section 23: Descriptors](https://github.com/onyxwizard/python-cheatsheet/tree/main/Section_23_Descriptors)
 
 🔗 Reuse attribute access logic with descriptors.
 
@@ -299,7 +299,7 @@ Each concept is explained with code examples and best practices for writing clea
 
 ---
 
-## 🧪 [Section 24: Metaprogramming](#section-24-metaprogramming)
+## 🧪 [Section 24: Metaprogramming](https://github.com/onyxwizard/python-cheatsheet/tree/main/Section_24_Meta_programming)
 
 🔮 Modify or generate code at runtime.
 
@@ -311,7 +311,7 @@ Each concept is explained with code examples and best practices for writing clea
 
 ---
 
-## 🧾 [Section 25: Exceptions in OOP](#section-25-exceptions-in-oop)
+## 🧾 [Section 25: Exceptions in OOP](https://github.com/onyxwizard/python-cheatsheet/tree/main/Section_25_Exceptions)
 
 ⚙️ Handle errors within object-oriented contexts.
 
