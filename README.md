@@ -183,7 +183,7 @@ This repository is your **step-by-step roadmap** to mastering Python — from th
 
 ---
 
-# 🧬 Object-Oriented Programming in Python (OOP)  
+# 🧬 Object-Oriented Programming in Python (OOPS)  
 
 
 ## 🧠 What You’ll Learn
@@ -322,6 +322,57 @@ Each concept is explained with code examples and best practices for writing clea
 - 📦 Exception best practices in real applications
 
 
-#### 🎉 **Let’s learn Python together — one concept at a time!**  
 
 ---
+# 🧮 Python Concurrency
+⏱️ **Build high-performance & responsive Python applications using concurrency techniques.**  
+🧠 Learn about multithreading, multiprocessing, and asynchronous programming to improve application performance and responsiveness.
+
+### 📌 What You’ll Learn:
+- Build high-performance & responsive Python applications.
+- Develop multithreaded programs using `threading`.
+- Run parallel tasks using `multiprocessing`.
+- Understand single-threaded concurrency via `asyncio`.
+
+---
+## 🔁 [Section 26: Multithreading](https://github.com/onyxwizard/python-cheatsheet/tree/main/Section_26_Multithreading) 
+🧵 **Use threads for I/O-bound tasks.**
+- 🧠 **Processes vs Threads** – Understand differences and when to use each.
+- 🧵 **Threading module** – Use `threading` for concurrent thread execution.
+- 🧱 **Extending Thread class** – Customize behavior by subclassing `Thread`.
+- 💬 **Returning values from threads** – Capture results safely.
+- 📈 **Multithreading Example** – Scrape stock prices concurrently.
+- 🌙 **Daemon threads** – Background threads that don’t block program exit.
+- 🧰 **Thread Pools** – Efficiently manage threads using `ThreadPoolExecutor`.
+
+---
+## 🔒 [Section 27: Thread Synchronization Techniques](https://github.com/onyxwizard/python-cheatsheet/tree/main/Section_27_Thread_sync) 
+🔐 **Avoid race conditions and ensure safe access.**
+- 🧱 **Lock** – Prevent simultaneous access to shared data.
+- 🚦 **Event** – Communicate between threads (e.g., wait/signal patterns).
+- ⏹️ **How to stop a thread** – Safely terminate child threads.
+- 🚧 **Semaphore** – Control number of concurrent threads accessing a resource.
+
+---
+## 📥 [Section 28: Sharing Data Between Threads](https://github.com/onyxwizard/python-cheatsheet/tree/main/Section_28_Sharing_data) 
+📦 **Exchange data safely across threads.**
+- 🧷 **Thread-safe Queue** – Use `queue.Queue` for safe inter-thread communication.
+
+---
+## 🚀 [Section 29: Multiprocessing](https://github.com/onyxwizard/python-cheatsheet/tree/main/Section_29_Multiprocessing) 
+🔌 **Run CPU-bound tasks in parallel using separate processes.**
+- 🧲 **Multiprocessing module** – Use `multiprocessing.Process` to spawn new processes.
+- 🧰 **Process Pools** – Manage processes efficiently using `Pool` or `ProcessPoolExecutor`.
+
+---
+## ⚡ [Section 30: Async I/O](https://github.com/onyxwizard/python-cheatsheet/tree/main/Section_30_Async_IO) 
+⚡ **Write asynchronous, non-blocking code using coroutines.**
+- 🧠 **Understanding Event Loop** – Core of async programming; manages coroutine execution.
+- 🧶 **async/await** – Define and await coroutines without blocking.
+- 🧩 **Creating Tasks** – Schedule coroutines for execution.
+- 🚫 **Canceling Tasks** – Cancel running tasks using `.cancel()`.
+- ⏳ **Timeout-based Cancellation** – Use `asyncio.wait_for()` to cancel after timeout.
+- 🕐 **asyncio.wait()** – Run multiple awaitables concurrently.
+- 🎯 **Future** – Understand `Future` objects for eventual results.
+- 🧱 **Running multiple tasks concurrently with gather()** – Run tasks concurrently using `asyncio.gather()`.
+#### 🎉 **Let’s learn Python together — one concept at a time!**  
