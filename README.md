@@ -5,7 +5,7 @@ This repository is your **step-by-step roadmap** to mastering Python — from th
 
 📘 Each section builds on the previous one, so you can follow along in order or jump straight into the topic you need.
 
----
+
 
 ## 🧱 [Section 1: Fundamentals](https://github.com/onyxwizard/python-cheatsheet/tree/main/Section_1_fundamentals)
 
@@ -19,7 +19,7 @@ This repository is your **step-by-step roadmap** to mastering Python — from th
 - 💬 **Comments** – Add notes and explanations inside your code.
 - 🔁 **Type conversion** – Convert between types like strings, integers, and floats.
 
----
+
 
 ## 🔣 [Section 2: Operators](https://github.com/onyxwizard/python-cheatsheet/tree/main/Section_2_operators)
 
@@ -30,7 +30,7 @@ This repository is your **step-by-step roadmap** to mastering Python — from th
 - 🔍 **Comparison operators** – Compare two values (`==`, `!=`, `<`, `>`, etc.)
 - 🧠 **Logical operators** – Combine conditions (`and`, `or`, `not`)
 
----
+
 
 ## 🔄 [Section 3: Control Flow](https://github.com/onyxwizard/python-cheatsheet/tree/main/Section_3_controlflow)
 
@@ -44,7 +44,7 @@ This repository is your **step-by-step roadmap** to mastering Python — from th
 - ⏭️ **continue** – Skip current iteration and continue looping.
 - 🪟 **pass** – Placeholder when no action is needed.
 
----
+
 
 ## 📦 [Section 4: Functions](https://github.com/onyxwizard/python-cheatsheet/tree/main/Section_4_functions)
 
@@ -57,7 +57,7 @@ This repository is your **step-by-step roadmap** to mastering Python — from th
 - 🧊 **Lambda Expressions** – Create small anonymous functions.
 - 📄 **Docstrings** – Document your functions clearly.
 
----
+
 
 ## 📋 [Section 5: Lists](https://github.com/onyxwizard/python-cheatsheet/tree/main/Section_5_List)
 
@@ -74,7 +74,7 @@ This repository is your **step-by-step roadmap** to mastering Python — from th
 - 🔄 **Map, Filter, Reduce** – Transform and filter list elements.
 - 💡 **List comprehensions** – Create lists quickly and cleanly.
 
----
+
 
 ## 🗂️ [Section 6: Dictionaries](https://github.com/onyxwizard/python-cheatsheet/tree/main/Section_6_Dictionary)
 
@@ -83,7 +83,7 @@ This repository is your **step-by-step roadmap** to mastering Python — from th
 - 📁 **Dictionary** – Store data as keys and values.
 - 🧰 **Dictionary comprehension** – Build dictionaries dynamically.
 
----
+
 
 ## 🔢 [Section 7: Sets](https://github.com/onyxwizard/python-cheatsheet/tree/main/Section_7_Sets)
 
@@ -94,7 +94,7 @@ This repository is your **step-by-step roadmap** to mastering Python — from th
 - ∪ **Union, Intersection, Difference** – Combine and compare sets.
 - ⊆ **Subset, Superset, Disjoint sets** – Check relationships between sets.
 
----
+
 
 ## ⚠️ [Section 8: Exception Handling](https://github.com/onyxwizard/python-cheatsheet/tree/main/Section_8_Exception_Handling)
 
@@ -104,7 +104,7 @@ This repository is your **step-by-step roadmap** to mastering Python — from th
 - 🧹 **try…except…finally** – Always run cleanup code.
 - ✅ **try…except…else** – Run code only if no error occurs.
 
----
+
 
 ## 🔁 [Section 9: More on Python Loops](https://github.com/onyxwizard/python-cheatsheet/tree/main/Section_9_loops_adv)
 
@@ -114,7 +114,7 @@ This repository is your **step-by-step roadmap** to mastering Python — from th
 - ⏳ **while…else** – Run code after a while loop ends.
 - 🔁 **do…while emulation** – Simulate do…while behavior in Python.
 
----
+
 
 ## 🧰 [Section 10: More on Python Functions](https://github.com/onyxwizard/python-cheatsheet/tree/main/Section_10_More_on_function)
 
@@ -126,7 +126,7 @@ This repository is your **step-by-step roadmap** to mastering Python — from th
 - 🔧 **Partial functions** – Fix some arguments for reuse.
 - 📏 **Type hints** – Improve readability and enable static type checking.
 
----
+
 
 ## 📁 [Section 11: Modules & Packages](https://github.com/onyxwizard/python-cheatsheet/tree/main/Section_11_Modules_packages.py)
 
@@ -138,7 +138,7 @@ This repository is your **step-by-step roadmap** to mastering Python — from th
 - 📁 **Packages** – Organize modules into folders.
 - 🔒 **Private functions** – Hide internal implementation.
 
----
+
 
 ## 📄 [Section 12: Working with Files](https://github.com/onyxwizard/python-cheatsheet/tree/main/Section_12_files)
 
@@ -151,7 +151,7 @@ This repository is your **step-by-step roadmap** to mastering Python — from th
 - 📊 **Read and write CSV files**
 - 🗑️ **Rename and delete files**
 
----
+
 
 ## 🗃️ [Section 13: Working Directories](https://github.com/onyxwizard/python-cheatsheet/tree/main/Section_13_Directory)
 
@@ -160,7 +160,7 @@ This repository is your **step-by-step roadmap** to mastering Python — from th
 - 📁 **Working with directories**
 - 🔍 **List files in a directory**
 
----
+
 
 ## 💬 [Section 14: Strings](https://github.com/onyxwizard/python-cheatsheet/tree/main/Section_14_strings)
 
@@ -170,7 +170,7 @@ This repository is your **step-by-step roadmap** to mastering Python — from th
 - 🧊 **Raw strings** – Avoid escape character issues.
 - 🧱 **Backslash usage** – Handle special characters.
 
----
+
 
 ## 🛠️ [Section 15: Third-party Packages, PIP, and Virtual Environments](https://github.com/onyxwizard/python-cheatsheet/tree/main/Section_15_pip_package)
 
@@ -213,7 +213,7 @@ Each concept is explained with code examples and best practices for writing clea
 - 🧾 Method overloading via default and keyword arguments
 - 💡 Best practices for readable OOP
 
----
+
 
 ## 🧪 [Section 17: Special Methods (Dunders)](https://github.com/onyxwizard/python-cheatsheet/tree/main/Section_17_Special_methods)
 
@@ -226,7 +226,7 @@ Each concept is explained with code examples and best practices for writing clea
 - 🚫 `__bool__` – define truthiness
 - 🗑️ `__del__` – handle object destruction
 
----
+
 
 ## 🔐 [Section 18: Property](https://github.com/onyxwizard/python-cheatsheet/tree/main/Section_18_Property)
 
@@ -238,7 +238,7 @@ Each concept is explained with code examples and best practices for writing clea
 - 📝 Read-only properties
 - 🧠 Best practices for encapsulation
 
----
+
 
 ## 🔄 [Section 19: Inheritance](https://github.com/onyxwizard/python-cheatsheet/tree/main/Section_19_Single_inheritance)
 
@@ -250,7 +250,7 @@ Each concept is explained with code examples and best practices for writing clea
 - 🧱 Use `__slots__` for memory efficiency
 - 🧻 Abstract base classes with `abc.ABC`
 
----
+
 
 ## 🔁 [Section 20: Multiple Inheritance](https://github.com/onyxwizard/python-cheatsheet/tree/main/Section_20_Enumeration)
 
@@ -262,7 +262,7 @@ Each concept is explained with code examples and best practices for writing clea
 - 🚫 Avoid diamond problem with proper design
 - 🧲 Combine behaviors without deep hierarchies
 
----
+
 
 ## 🧩 [Section 21: Enumeration](https://github.com/onyxwizard/python-cheatsheet/tree/main/Section_21_SOLID_principles)
 
@@ -274,7 +274,6 @@ Each concept is explained with code examples and best practices for writing clea
 - 📦 Extend custom enum classes
 - 🧠 Use enums instead of hardcoded strings
 
----
 
 ## 🧱 [Section 22: SOLID Principles](https://github.com/onyxwizard/python-cheatsheet/tree/main/Section_22_Multiple_inheritance)
 
@@ -286,7 +285,7 @@ Each concept is explained with code examples and best practices for writing clea
 - 📁 Interface Segregation Principle
 - 🧠 Dependency Inversion Principle
 
----
+
 
 ## 🧰 [Section 23: Descriptors](https://github.com/onyxwizard/python-cheatsheet/tree/main/Section_23_Descriptors)
 
@@ -297,7 +296,7 @@ Each concept is explained with code examples and best practices for writing clea
 - 🧩 Reusable validation and computed properties
 - 🧱 Descriptor examples: type checking, lazy loading
 
----
+
 
 ## 🧪 [Section 24: Metaprogramming](https://github.com/onyxwizard/python-cheatsheet/tree/main/Section_24_Meta_programming)
 
@@ -309,7 +308,7 @@ Each concept is explained with code examples and best practices for writing clea
 - 🧱 Inject behavior via metaclass
 - 🧠 Use `dataclass` to auto-generate boilerplate
 
----
+
 
 ## 🧾 [Section 25: Exceptions in OOP](https://github.com/onyxwizard/python-cheatsheet/tree/main/Section_25_Exceptions)
 
@@ -334,7 +333,7 @@ Each concept is explained with code examples and best practices for writing clea
 - Run parallel tasks using `multiprocessing`.
 - Understand single-threaded concurrency via `asyncio`.
 
----
+
 ## 🔁 [Section 26: Multithreading](https://github.com/onyxwizard/python-cheatsheet/tree/main/Section_26_Multithreading) 
 🧵 **Use threads for I/O-bound tasks.**
 - 🧠 **Processes vs Threads** – Understand differences and when to use each.
@@ -345,26 +344,26 @@ Each concept is explained with code examples and best practices for writing clea
 - 🌙 **Daemon threads** – Background threads that don’t block program exit.
 - 🧰 **Thread Pools** – Efficiently manage threads using `ThreadPoolExecutor`.
 
----
-## 🔒 [Section 27: Thread Synchronization Techniques](https://github.com/onyxwizard/python-cheatsheet/tree/main/Section_27_Thread_sync) 
+
+## 🔒 [Section 27: Thread Synchronization Techniques](https://github.com/onyxwizard/python-cheatsheet/tree/main/Section_27_Thread_Synchronization_Techniques) 
 🔐 **Avoid race conditions and ensure safe access.**
 - 🧱 **Lock** – Prevent simultaneous access to shared data.
 - 🚦 **Event** – Communicate between threads (e.g., wait/signal patterns).
 - ⏹️ **How to stop a thread** – Safely terminate child threads.
 - 🚧 **Semaphore** – Control number of concurrent threads accessing a resource.
 
----
-## 📥 [Section 28: Sharing Data Between Threads](https://github.com/onyxwizard/python-cheatsheet/tree/main/Section_28_Sharing_data) 
+
+## 📥 [Section 28: Sharing Data Between Threads](https://github.com/onyxwizard/python-cheatsheet/tree/main/Section_28_Sharing_Data_Between_Threads) 
 📦 **Exchange data safely across threads.**
 - 🧷 **Thread-safe Queue** – Use `queue.Queue` for safe inter-thread communication.
 
----
+
 ## 🚀 [Section 29: Multiprocessing](https://github.com/onyxwizard/python-cheatsheet/tree/main/Section_29_Multiprocessing) 
 🔌 **Run CPU-bound tasks in parallel using separate processes.**
 - 🧲 **Multiprocessing module** – Use `multiprocessing.Process` to spawn new processes.
 - 🧰 **Process Pools** – Manage processes efficiently using `Pool` or `ProcessPoolExecutor`.
 
----
+
 ## ⚡ [Section 30: Async I/O](https://github.com/onyxwizard/python-cheatsheet/tree/main/Section_30_Async_IO) 
 ⚡ **Write asynchronous, non-blocking code using coroutines.**
 - 🧠 **Understanding Event Loop** – Core of async programming; manages coroutine execution.
@@ -376,3 +375,5 @@ Each concept is explained with code examples and best practices for writing clea
 - 🎯 **Future** – Understand `Future` objects for eventual results.
 - 🧱 **Running multiple tasks concurrently with gather()** – Run tasks concurrently using `asyncio.gather()`.
 #### 🎉 **Let’s learn Python together — one concept at a time!**  
+
+---
